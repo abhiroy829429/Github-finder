@@ -2,14 +2,6 @@ import './user-card.css'
 
 export default function UserCard (props) {
 
-    // console.log({props})
-
-    // const {
-    //     profileLink,
-    //     accountLink,
-    //     username
-    // } = props || {}
-
 
 
     return (

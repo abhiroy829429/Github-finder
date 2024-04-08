@@ -50,15 +50,6 @@ export default function App() {
     }
   }
 
-  // function foo (query) {
-  //   const result = []
-  //   fetch(`${API_URL}/search/users?q=${query}`)
-  //   .then((response) => response.json())
-  //   .then(data => {
-  //     setResults(data?.items)
-  //   })
-  //   .catch(error => console.log(error))
-  // }
 
   return (
       <main className="main">
